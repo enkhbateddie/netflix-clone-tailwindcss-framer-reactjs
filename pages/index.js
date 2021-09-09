@@ -12,7 +12,7 @@ export default function Home() {
       
       <header className="w-full h-5/6 overflow-hidden bg-black">    
         <div className="absolute z-negative mt-5 w-full h-full">
-        <iframe width="100%" height="90%" src="https://www.youtube.com/embed/SL9aJcqrtnw?start=20&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="90%" src="https://www.youtube.com/embed/Ti_o4fv2Ta0?autoplay=1&mute=1&enablejsapi=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <nav className="w-full z-20 flex items-center h-16 justify-between flex-wrap bg-gradient-to-black from-gray-600 p-3">
             <div className="flex items-center flex-shink-0 text-white mr-10 ml-2">
